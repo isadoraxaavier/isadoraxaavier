@@ -2,14 +2,13 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Isadora Xavier</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isadoraxaavier&color=yellow" alt="Profile views" /> </p>
 
-## Sobre mim
+-  Programming Student
 
- Oi! Meu nome é Isadora. Eu sou estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais
--  Estudante de programação
+-  Future Web Developer
 
--  Atualmente aprendendo a linguagem PHP
+-  Currently learning the **PHP** and **Laravel**
 
--  Me pergunte sobre **JavaScript, HTML, CSS, SQL**
+-  Projects using **JavaScript, HTML, CSS, SQL, PHP**
 
 <!--
 
