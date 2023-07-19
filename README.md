@@ -1,7 +1,10 @@
-<img align="right" height="590em" src="C:\Users\User\Downloads\cardgithub.jpeg"/>
+<img align="right" height="590em" src="https://github.com/isadoraxaavier/isadoraxaavier/assets/122477054/e44d41c9-1d1e-4597-b386-bec5ecc68b2f"/>
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Isadora Xavier</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isadoraxaavier&color=yellow" alt="Profile views" /> </p>
 
+## Sobre mim
+
+ Oi! Meu nome é Isadora. Eu sou estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais
 -  Estudante de programação
 
 -  Atualmente aprendendo a linguagem PHP
