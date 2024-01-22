@@ -4,8 +4,8 @@
 
 -  Programming Student
 -  Future Web Developer
--  Currently learning the **PHP** and **Laravel**
--  Projects using **JavaScript, HTML, CSS, SQL, PHP**
+-  Currently learning the **C Sharp** language
+-  Projects using **JavaScript, HTML, CSS, SQL, PHP, C#**
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoraxaavier&show_icons=true&theme=dark"/>
