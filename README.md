@@ -33,15 +33,18 @@ Full Stack Developer working with enterprise systems in production environments,
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=isadoraxaavier&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isadoraxaavier&theme=tokyonight&hide_border=true" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=isadoraxaavier&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=isadoraxaavier&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
