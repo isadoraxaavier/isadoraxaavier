@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Isadora Xavier
 
-Full Stack Developer working with enterprise systems in production environments, focused on maintenance and system evolution.
+Working with enterprise systems in production environments, focused on maintenance and system evolution.
 
 </div>
 
