@@ -1,24 +1,58 @@
+<div align="center">
 
-<h1 align="rigth">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Isadora Xavier</h1>
+# 👋 Hey, I'm Isadora Xavier
 
+Full Stack Developer working with enterprise systems in production environments, focused on maintenance and system evolution.
 
--  Programming Student
--  Future Web Developer
--  Currently learning the **C Sharp** language
--  Projects using **JavaScript, HTML, CSS, SQL, PHP, C#**
+</div>
+
+## Tech Stack
+
+<div align="center">
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+</p>
+
+### Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+</p>
+
+</div>
+
+## GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoraxaavier&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraxaavier&layout=compact&theme=dark"/›
+
+<img src="https://github-readme-stats.vercel.app/api?username=isadoraxaavier&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isadoraxaavier&theme=tokyonight&hide_border=true" />
+
 </div>
-<h1>Contact</h1>
-<a href="https://linkedin.com/in/isadoraxaviergoncalves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-isadoraxaviergoncalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/isadoraxaavier" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-isadoraxaavier-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
+## Contact
+
+<p>
+  <a href="https://linkedin.com/in/isadoraxaviergoncalves">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isadoraxaavier&color=green" alt="Profile views" /> </p>
--->
+
+## Profile views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=isadoraxaavier&color=green" />
+</p>
