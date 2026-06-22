@@ -33,7 +33,7 @@ Full Stack Developer working with enterprise systems in production environments,
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
